@@ -2,7 +2,7 @@
 # Created by https://www.gitignore.io/api/node
 
 ### Custom ###
-server.log
+#server.log
 
 ### Node ###
 # Logs
